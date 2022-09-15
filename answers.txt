@@ -1,5 +1,5 @@
 1) What is a gitignore file and what should it include for a Java project?
--- gitignore file tells what type of files Git should ignore in a project. For a java project, gitignore file includes class file, log file, package files (jar, war, rar, etc) and IDE generated files.
+-- gitignore file tells what type of files Git should ignore in a project. For a java project, gitignore file includes class file, log file, package files (jar, war, rar, etc) and IDE tools generated files.
 
 2) What does fast-forward in git mean?
 -- It happens when we merge a branch that is ahead of the branch we have checked out.
